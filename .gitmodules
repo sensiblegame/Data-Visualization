@@ -1,0 +1,6 @@
+[submodule "bubblechart"]
+	path = bubblechart
+	url = F:\\Github\\DataVisualization\\bubblechart
+[submodule "sankey"]
+	path = sankey
+	url = F:\\Github\\DataVisualization\\sankey
